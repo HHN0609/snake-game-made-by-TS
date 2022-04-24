@@ -1,2 +1,2 @@
-# snake-game-made-by-TS
-a snake game made by TS
+# greedy-snake-game-made-by-TS
+a greedy snake game made by TS
